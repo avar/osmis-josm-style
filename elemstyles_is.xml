@@ -1,6 +1,8 @@
 <rules author="Ævar Arnfjörð Bjarmason"
        shortdescription="Iceland"
        description="Custom JOSM mappaint style for Iceland"
+       is.shortdescription="Ísland"
+       is.description="JOSM teiknistíll fyrir Ísland"
        version="0.1">
   <!--
      Road types:
