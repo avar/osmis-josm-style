@@ -1,0 +1,64 @@
+<rules author="Ævar Arnfjörð Bjarmason"
+       shortdescription="Iceland"
+       description="Custom JOSM mappaint style for Iceland"
+       version="0.1">
+  <!--
+     Road types:
+   3102 ourfootprints:road_type=6
+   2344 ourfootprints:road_type=4
+   1643 ourfootprints:road_type=10
+    765 ourfootprints:road_type=3
+    348 ourfootprints:road_type=1
+     78 ourfootprints:road_type=5
+     45 ourfootprints:road_type=2
+     12 ourfootprints:road_type=20
+    -->
+  <rule>
+    <condition k="ourfootprints:road_type" v="6"/>
+    <line mode="under" width="5" dashed="true" colour="ofp_roadtype6#ff0000" priority="-50000"/>
+    <scale_min>1</scale_min>
+    <scale_max>200000000</scale_max>
+  </rule>
+  <rule>
+    <condition k="ourfootprints:road_type" v="4"/>
+    <line mode="under" width="5" dashed="true" colour="ofp_roadtype6#ff0000" priority="-50000"/>
+    <scale_min>1</scale_min>
+    <scale_max>200000000</scale_max>
+  </rule>
+  <rule>
+    <condition k="ourfootprints:road_type" v="10"/>
+    <line mode="under" width="5" dashed="true" colour="ofp_roadtype6#ff0000" priority="-50000"/>
+    <scale_min>1</scale_min>
+    <scale_max>200000000</scale_max>
+  </rule>
+  <rule>
+    <condition k="ourfootprints:road_type" v="3"/>
+    <line mode="under" width="5" dashed="true" colour="ofp_roadtype6#ff0000" priority="-50000"/>
+    <scale_min>1</scale_min>
+    <scale_max>200000000</scale_max>
+  </rule>
+  <rule>
+    <condition k="ourfootprints:road_type" v="1"/>
+    <line mode="under" width="5" dashed="true" colour="ofp_roadtype6#ff0000" priority="-50000"/>
+    <scale_min>1</scale_min>
+    <scale_max>200000000</scale_max>
+  </rule>
+  <rule>
+    <condition k="ourfootprints:road_type" v="5"/>
+    <line mode="under" width="5" dashed="true" colour="ofp_roadtype6#ff0000" priority="-50000"/>
+    <scale_min>1</scale_min>
+    <scale_max>200000000</scale_max>
+  </rule>
+  <rule>
+    <condition k="ourfootprints:road_type" v="2"/>
+    <line mode="under" width="5" dashed="true" colour="ofp_roadtype6#ff0000" priority="-50000"/>
+    <scale_min>1</scale_min>
+    <scale_max>200000000</scale_max>
+  </rule>
+  <rule>
+    <condition k="ourfootprints:road_type" v="10"/>
+    <line mode="under" width="5" dashed="true" colour="ofp_roadtype6#ff0000" priority="-50000"/>
+    <scale_min>1</scale_min>
+    <scale_max>200000000</scale_max>
+  </rule>
+</rules>
