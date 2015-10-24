@@ -17,49 +17,49 @@
     -->
   <rule>
     <condition k="ourfootprints:road_type" v="6"/>
-    <line mode="under" width="1" dashed="true" colour="ofp_roadtype6#707070" priority="-50000"/>
+    <linemod mode="under" width="1" dashed="true" colour="ofp_roadtype6#707070" priority="-50000"/>
     <scale_min>1</scale_min>
     <scale_max>200000000</scale_max>
   </rule>
   <rule>
     <condition k="ourfootprints:road_type" v="4"/>
-    <line mode="under" width="1" dashed="true" colour="ofp_roadtype6#707070" priority="-50000"/>
+    <linemod mode="under" width="1" dashed="true" colour="ofp_roadtype6#707070" priority="-50000"/>
     <scale_min>1</scale_min>
     <scale_max>200000000</scale_max>
   </rule>
   <rule>
     <condition k="ourfootprints:road_type" v="10"/>
-    <line mode="under" width="1" dashed="true" colour="ofp_roadtype6#707070" priority="-50000"/>
+    <linemod mode="under" width="1" dashed="true" colour="ofp_roadtype6#707070" priority="-50000"/>
     <scale_min>1</scale_min>
     <scale_max>200000000</scale_max>
   </rule>
   <rule>
     <condition k="ourfootprints:road_type" v="3"/>
-    <line mode="under" width="1" dashed="true" colour="ofp_roadtype6#707070" priority="-50000"/>
+    <linemod mode="under" width="1" dashed="true" colour="ofp_roadtype6#707070" priority="-50000"/>
     <scale_min>1</scale_min>
     <scale_max>200000000</scale_max>
   </rule>
   <rule>
     <condition k="ourfootprints:road_type" v="1"/>
-    <line mode="under" width="1" dashed="true" colour="ofp_roadtype6#707070" priority="-50000"/>
+    <linemod mode="under" width="1" dashed="true" colour="ofp_roadtype6#707070" priority="-50000"/>
     <scale_min>1</scale_min>
     <scale_max>200000000</scale_max>
   </rule>
   <rule>
     <condition k="ourfootprints:road_type" v="5"/>
-    <line mode="under" width="1" dashed="true" colour="ofp_roadtype6#707070" priority="-50000"/>
+    <linemod mode="under" width="1" dashed="true" colour="ofp_roadtype6#707070" priority="-50000"/>
     <scale_min>1</scale_min>
     <scale_max>200000000</scale_max>
   </rule>
   <rule>
     <condition k="ourfootprints:road_type" v="2"/>
-    <line mode="under" width="1" dashed="true" colour="ofp_roadtype6#707070" priority="-50000"/>
+    <linemod mode="under" width="1" dashed="true" colour="ofp_roadtype6#707070" priority="-50000"/>
     <scale_min>1</scale_min>
     <scale_max>200000000</scale_max>
   </rule>
   <rule>
     <condition k="ourfootprints:road_type" v="10"/>
-    <line mode="under" width="1" dashed="true" colour="ofp_roadtype6#707070" priority="-50000"/>
+    <linemod mode="under" width="1" dashed="true" colour="ofp_roadtype6#707070" priority="-50000"/>
     <scale_min>1</scale_min>
     <scale_max>200000000</scale_max>
   </rule>
