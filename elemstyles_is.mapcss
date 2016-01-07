@@ -25,5 +25,5 @@ way["ourfootprints:road_type"]::iceland
 	object-z-index: -1.0;
 	width: +5;
 	dashes: 10;
-	color: #707070;
+	color: ofp_roadtype6#707070;
 }
