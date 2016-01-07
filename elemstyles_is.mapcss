@@ -1,0 +1,29 @@
+meta {
+    title: "Iceland";
+    version: "1.0";
+    description: "Custom JOSM mappaint style for Iceland";
+    author: "Ævar Arnfjörð Bjarmason";
+}
+meta[lang=is]
+{
+    title: "Ísland";
+    description: "JOSM teiknistíll fyrir Ísland";
+}
+/*
+     Road types:
+   3102 ourfootprints:road_type=6
+   2344 ourfootprints:road_type=4
+   1643 ourfootprints:road_type=10
+    765 ourfootprints:road_type=3
+    348 ourfootprints:road_type=1
+     78 ourfootprints:road_type=5
+     45 ourfootprints:road_type=2
+     12 ourfootprints:road_type=20
+*/
+way["ourfootprints:road_type"]::iceland
+{
+	object-z-index: -1.0;
+	width: +5;
+	dashes: 10;
+	color: ofp_roadtype6#707070;
+}
